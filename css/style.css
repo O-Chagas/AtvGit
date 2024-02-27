@@ -1,5 +1,14 @@
+body {
+    background-color: coral;
+}
+
 h1 {
     background-color: aqua;
+}
+
+ul li {
+    background-color: darkblue;
+    color: #fff;
 }
 
 footer {
